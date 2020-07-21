@@ -30,7 +30,7 @@ Within the download you'll find common assets providing both compiled and minifi
 
 ```text
 meridian-web-scraper/
-└── meridian-output.csv
+├── meridian-output.csv
 ├── meridian-scraper.py
 └── output_example.png
 ```
